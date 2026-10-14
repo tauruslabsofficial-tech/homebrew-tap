@@ -1,8 +1,8 @@
 # Homebrew cask published in https://github.com/tauruslabsofficial-tech/homebrew-tap
 # Install: brew install --cask tauruslabsofficial-tech/tap/earshare
 cask "earshare" do
-  version "1.1.0"
-  sha256 "791a2738a1cee15091629dd0580dcfcc49669c3a65a06963e165a35892e4ce96"
+  version "1.1.1"
+  sha256 "68623da48b5149ad3e4e86a61ea6524eb83c5b3a5374bf55b7f25735f03d5611"
 
   url "https://github.com/tauruslabsofficial-tech/EarShare-releases/releases/download/v#{version}/EarShare.dmg"
   name "EarShare"
